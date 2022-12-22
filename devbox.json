@@ -1,5 +1,9 @@
 {
-  "packages": [],
+  "packages": [
+    "ruby_3_1",
+    "nodejs-16_x",
+    "postgresql_14"
+  ],
   "shell": {
     "init_hook": null
   },
